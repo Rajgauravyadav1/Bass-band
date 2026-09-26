@@ -5,7 +5,7 @@
 | TPA3110 dual-channel amplifier module | Filterless class-D; 8–26V input, full rated power (~15W/ch) needs ~16–24V |
 | Bluetooth receiver module | Feeds line-in (L/R/GND) to amp |
 | Passive radiators ×2 | Sized/tuned to enclosure volume + woofer Thiele-Small params |
-| 30W woofer speaker | Main bass driver |
+| 30W 4 ohm 4 inch woofer speaker | Main bass driver |
 | 3W speaker (tweeter) | High-frequency driver |
 | Low-pass filter (passive crossover) | To woofer |
 | High-pass filter (passive crossover) | To tweeter |
